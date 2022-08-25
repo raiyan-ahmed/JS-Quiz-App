@@ -78,10 +78,10 @@ function clearStatusClass(element) {
 
 const questions = [
     {
-        question: 'What is 2 + 2?',
+        question: 'What is 2 / 0?',
         answers: [
-            { text: '4', correct: true },
-            { text: '22', correct: false }
+            { text: 'infinity', correct: true },
+            { text: '0', correct: false }
         ]
     },
     {
