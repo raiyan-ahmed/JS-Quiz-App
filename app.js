@@ -76,6 +76,7 @@ function clearStatusClass(element) {
     element.classList.remove('wrong')
 }
 
+//Question Set
 const questions = [
     {
         question: 'What is 2 / 0?',
