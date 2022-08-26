@@ -85,12 +85,10 @@ const questions = [
         ]
     },
     {
-        question: 'Who is the best YouTuber?',
+        question: 'Who was the first Bengali to be awarded the Nobel Prize?',
         answers: [
-            { text: 'Web Dev Simplified', correct: true },
-            { text: 'Traversy Media', correct: true },
-            { text: 'Dev Ed', correct: true },
-            { text: 'Fun Fun Function', correct: true }
+            { text: 'Rabindranath Tagore', correct: true },
+            { text: 'IDK', correct: false },
         ]
     },
     {
@@ -103,10 +101,10 @@ const questions = [
         ]
     },
     {
-        question: 'What is 4 * 2?',
+        question: 'What is 4 * 0?',
         answers: [
-            { text: '6', correct: false },
-            { text: '8', correct: true }
+            { text: '4', correct: false },
+            { text: '0', correct: true }
         ]
     }
 ]
